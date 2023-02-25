@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <Zirumaio (Maurizio Stefanello, ACME)>
 
    # Input:
    # p, principal amount
