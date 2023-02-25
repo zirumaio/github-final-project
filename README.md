@@ -6,3 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+Provided by ACME, the best micro-finance startup for low income individuals!
